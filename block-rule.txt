@@ -2,12 +2,6 @@
 !规则版本: 1.0
 !更新时间: 2024-04-09
 !
-!项目地址：https://https://github.com/lenglqy/AdGuard-Rule
-!
-!如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
-!
-!本项目根据 Attribution-NonCommercial-ShareAlike 4.0 International （CC BY-NC-SA 4.0） 许可获得许可。
-!
 
 Domain, 0.r.msn.com
 Domain, 000123456789.online
